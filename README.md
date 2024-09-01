@@ -9,9 +9,9 @@
     Contact: +44 07904500068
 
 ### Aim:
-> This course is designed for those individuals and/or groups who are interested in learning modern ways to build and deploy containersied workloads. Following the best industrial work practices, **GitOps** offers a step forward in *_Infrastructure Automation_* and most importantly for *_software application build and delivery_*. **_Kuberbenetes adoption is on rise AND it is now a de-facto standard for business to build and deliver cloud-native applications_**. You will learn Docker, Kubernetes and the GitOps tookit in this course through instructor-led sessions.  **_Our training is >80% hands on (Practical) as we truely believe that learning by doing is the best way to learn and master new skills._**
+> This course is designed for those individuals and/or groups who are interested in learning modern ways to build and deploy containersied workloads. Following the best industrial work practices, **GitOps** offers a step forward in *_Infrastructure Automation_* and most importantly for *_software application build and delivery_*. **_Kuberbenetes adoption is on rise AND it is now a de-facto standard for business to build and deliver cloud-native applications_**. You will learn Docker, Kubernetes and the GitOps tookit in this course through instructor-led sessions.  **_Our training is >80% hands on (Practical) as we truly believe that learning by doing is the best way to learn and master new skills._**
 
-> As cloud native application developments are growing rapidly, the industrial demand for skilled individuals is also growing.  Participants will gain insight about container orchestration with confidence to work with modern container orchestration systems like **Kubernetes**. This course is hugely focused on latest GitOps practices and will deep dive into modern tools such as Argo-CD to prepare real world software delivery patterns during. This course is for anyone who is interested in improving their employment chances for starting a new career as well as securing a highly paid job with a long term stable career.
+> As cloud native application developments are growing rapidly, the industrial demand for skilled individuals is also growing.  Participants will gain insight about container orchestration with confidence to work with modern container orchestration systems like **Kubernetes**. This course is hugely focused on latest GitOps practices and will deep dive into modern tools such as Argo-CD to prepare real world application deployment patterns. This course is for anyone who is interested in improving their employment chances for starting a new career as well as securing a highly paid job with a long term stable career.
 
 The delegate will acquire essential knowledge which will help them to become a good :
 
@@ -25,7 +25,7 @@ The delegate will acquire essential knowledge which will help them to become a g
 ### At least one of the following.
 
 * **Desire** to learn and master new skills.
-* Problem solving **Atitude**.
+* Problem solving **Attitude**.
 * Good **Team Player**.
 * **Interested** in exploring new career opportunities.
 * **Open minded**.
@@ -77,7 +77,7 @@ The delegate will acquire essential knowledge which will help them to become a g
 * Docker Compose to run multiple containers.
 
 >## Linux and BASH scripting :
-  * Get more insight about **Linux filesystem** on a container.
+  * Get more insight about **Linux filesystem** in a container.
   * What is BASH scripting?
   * Why BASH scripts are very useful ?
   * Prepare sample BASH scripts. 
@@ -102,7 +102,7 @@ The delegate will acquire essential knowledge which will help them to become a g
 
 >## Kubernetes `K8S`
   * What is `Kubernetes` ?
-  * Why `kubernete` adoption is on rise ?
+  * Why `kubernetes` adoption is on rise ?
   * `Docker` vs `Kubernetes` - comparision.
   * High level Architectural diagram of Kubernetes and core components.
   * What is `kubernetes` API ?
@@ -183,7 +183,7 @@ The delegate will acquire essential knowledge which will help them to become a g
 
 >## Helm Package manager.
   * What is a package maanager ?
-  * Why `helm` for `kubernete`s package management ?
+  * Why `helm` for `kubernetes`s package management ?
   * Setup helm locally on your system.
   * helm repositories :
     - add, remove, list repositories.
@@ -203,7 +203,7 @@ The delegate will acquire essential knowledge which will help them to become a g
   * Make ammendment to helm release and upgrade existing helm release.
 
 >## GitOps with Argo CD:
-* Introduction to  `GitOps` ?
+* Introduction to `GitOps` ?
 * What is `ArgoCD` ?
 * Example without ArgoCD and with ArgoCD
 * Defining single source of truth.
