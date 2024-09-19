@@ -9,7 +9,7 @@
     Contact: +44 07904500068
 
 ### Aim:
-> This course is designed for those individuals and/or groups who are interested in learning modern ways to build and deploy containersied workloads. Following the best industrial work practices, **GitOps** offers a step forward in *_Infrastructure Automation_* and most importantly for *_software application build and delivery_*. **_Kuberbenetes adoption is on rise AND it is now a de-facto standard for business to build and deliver cloud-native applications_**. You will learn Docker, Kubernetes and the GitOps tookit in this course through instructor-led sessions.  **_Our training is >80% hands on (Practical) as we truly believe that learning by doing is the best way to learn and master new skills._**
+> This course is designed for those individuals and/or groups who are interested in learning modern ways to build and deploy containersied workloads. Following the best industrial work practices, **GitOps** offers a step forward in *_Infrastructure Automation_* and most importantly for *_software application build and delivery_*. **_Kubernetes adoption is on rise AND it is now a de-facto standard for business to build and deliver cloud-native applications_**. You will learn Docker, Kubernetes and the GitOps tookit in this course through instructor-led sessions.  **_Our training is >80% hands on (Practical) as we truly believe that learning by doing is the best way to learn and master new skills._**
 
 > As cloud native application developments are growing rapidly, the industrial demand for skilled individuals is also growing.  Participants will gain insight about container orchestration with confidence to work with modern container orchestration systems like **Kubernetes**. This course is hugely focused on latest GitOps practices and will deep dive into modern tools such as Argo-CD to prepare real world application deployment patterns. This course is for anyone who is interested in improving their employment chances for starting a new career as well as securing a highly paid job with a long term stable career.
 
@@ -62,19 +62,19 @@ The delegate will acquire essential knowledge which will help them to become a g
   - Understanding image tags.
   - Pull a basic ​busybox​ and ​alpine​ image from dockerhub. 
       * ​docker `pull`
-  - List all images available local on your system. 
+  - List all images available locally on your system. 
       * docker `images`
   - Inspect a docker image to gain insight of the image. 
       * ​docker image `inspect`
-  - Familierise with basic **LINUX utilities** through a container.
+  - Familierise with basic **LINUX utilities** through a running container.
 * Practice **LINUX common commands** on a **ubuntu** container.
 * Understand different **Dockerfile** commands.
 * Build container from default images.
-* Create docker image from running container.
-* Write _DockerFile_ to build container image from scratch.
+* Create docker image from a running container.
+* Write _DockerFile_ to build container images from scratch.
 * Build a custom web server image using _nginx webserver_.
     * docker _build_
-* Docker Compose to run multiple containers.
+* Docker Compose to run multiple containers. (Optional)
 
 >## Linux and BASH scripting :
   * Get more insight about **Linux filesystem** in a container.
